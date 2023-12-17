@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marina.
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, after years using other languages.
 - 💞️ I’m looking to collaborate on Big Data projects.
 - 📫 You can reach me at msarmengol@gmail.com
 

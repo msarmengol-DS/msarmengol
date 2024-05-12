@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Marina.
+- 👋 Hi, I’m Marina, IT PM.
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python, after years using other languages (❤SQL).
-- 💞️ I’m looking to collaborate on Big Data projects.
+- 🌱 I’m currently learning Python, after years using another languages (❤SQL).
+- 💞️ I’m looking to part-time collaboration in Data Science projects.
 - 📫 You can reach me at msarmengol@gmail.com
 
 <!---
